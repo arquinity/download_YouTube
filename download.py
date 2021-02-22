@@ -5,7 +5,7 @@ import os
 os.system("clear")
 print("""\033[1;31m✞✞ ĆŘ€ĐƗŦØŞ ✞✞
 GHOST ==> https://github.com/GH05T3-404/
-ARQUINITY ==> https://github.com/arquinity/\n""")
+Criador: ARQUINITY ==> https://github.com/arquinity/\n""")
 
 
 # Digite o link do vídeo e o local que deseja salvar o video #
